@@ -1,5 +1,5 @@
 <b>
-    <h1><p align="center">Imagens do Dockerhub</p>
+    <h1><p align="center">Imagens do Docker hub</p>
         <br/><br/></h1>
     https://hub.docker.com/repository/docker/gilmarnonato/laravel_app
     https://hub.docker.com/repository/docker/gilmarnonato/mysql_db
