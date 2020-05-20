@@ -1,5 +1,6 @@
 <b>
-    Imagens do Dockerhub<br/><br/>
+    <p align="center">Imagens do Dockerhub</p>
+        <br/><br/>
     https://hub.docker.com/repository/docker/gilmarnonato/laravel_app
     https://hub.docker.com/repository/docker/gilmarnonato/mysql_db
     https://hub.docker.com/repository/docker/gilmarnonato/redis
